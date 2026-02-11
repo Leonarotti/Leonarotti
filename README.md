@@ -5,7 +5,7 @@
 <p width="45%">
 Nice to meet you! Let me introduce myself in a few lines:
   <ul>
-    <li>🎓 I'm a <b>Business Informatics student</b> at UCR (85% completed)</li>
+    <li>🎓 I'm a <b>Business Informatics student</b> at UCR</li>
     <li>📍 Based in <b>Costa Rica</b></li>
     <li>💻 I love working on <b>Development projects</b></li>
     <li>🧠 You can ask me about <b>Clean Code, SOLID, Microservices, .NET, Node.js...</b></li>
@@ -14,7 +14,7 @@ Nice to meet you! Let me introduce myself in a few lines:
 
 Passionate about solving business problems with technology, I’ve worked on academic and real-world software solutions applying good development principles. I'm eager to join innovative teams and keep growing professionally.
 
-If you're looking for a junior dev or intern, feel free to reach out!
+If you're looking for a dev, feel free to reach out!
 </p>
 
 ---
@@ -29,9 +29,9 @@ If you're looking for a junior dev or intern, feel free to reach out!
 
 ## 🧠 About Me
 
-I’m a final-year **Business Informatics** student passionate about technology, problem-solving, and optimizing business processes through software development. I’ve worked on academic and real-world projects using **microservices**, **clean architecture**, and modern technologies.
+I’m a Software Engineer with hands-on experience designing and delivering production-ready SaaS platforms. specializing in full stack development, cloud infrastructure, automation, and secure APIs. Passionate about scalable systems, security, and business-oriented technology. Also, I’ve worked on academic projects using microservices, clean architecture, and modern technologies.
 
-I'm currently looking for **internship or junior developer opportunities** where I can contribute and continue growing as a professional, especially in areas related to **AI, automation, and scalable enterprise solutions**.
+I'm currently looking for developer opportunities where I can contribute and continue growing as a professional, especially in areas related to AI, automation, and scalable enterprise solutions.
 
 ---
 
@@ -71,7 +71,7 @@ I'm currently looking for **internship or junior developer opportunities** where
 
 ## 📈 Currently Learning
 
-- Artificial Intelligence & Automation (RPA)
+- Artificial Intelligence & Automation
 - Python for AI
 - Improving my English through formal coursework
 
@@ -81,9 +81,5 @@ I'm currently looking for **internship or junior developer opportunities** where
 
 📧 leonardopereiraarias@gmail.com  
 
----
 
-## 🚀 Looking for Talent?
-
-I'm actively seeking new challenges — whether it's a professional internship or a junior developer position. Let’s connect!
 
